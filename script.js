@@ -1,5 +1,5 @@
-const modal = document.querySelector('.modal')
-const button1 = document.querySelector('butto1')
+const modal = document.querySelector('modal')
+const button1 = document.querySelector('button1')
 const closeButton = document.querySelector('modal-container-close')
 
 button1.addEventListener('click', () => {
